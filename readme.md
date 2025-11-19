@@ -7,20 +7,25 @@ This project provides a Streamlit application for deepfake detection on video fi
 - GPU support when available  
 - Single video and folder modes  
 - Adjustable frame sampling  
-- Choose VAE, ED, or both models  
+- Choose VAE, ED, or combined models  
 
 ## Requirements
 - Python 3.10  
 - PyTorch  
 - Streamlit  
-- Pandas  
+ 
 
 Install dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Usage
-
+```bash
 Run the app:
 streamlit run app.py
+```
+
+Google Drive : https://drive.google.com/drive/folders/16VacJFsBoQwhPuquz_ykZ18rvmrTqkFT?usp=drive_link
+
+Download the models from the link above and put it in the weight folder.
