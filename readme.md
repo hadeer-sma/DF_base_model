@@ -1,6 +1,6 @@
 # Vid Deepfake Detector
 
-This project provides a Streamlit application for deepfake detection on video files. The app supports single video analysis and batch processing of folders.
+This project provides a Streamlit application for deepfake detection on video files. The app supports single video analysis and batch processing of a folder.
 
 ## Features
 - Streamlit interface  
